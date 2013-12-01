@@ -1,0 +1,7 @@
+apache2/
+bin/
+env/
+lib/
+*.sqlite
+*.pyc
+sample/local_settings.py
