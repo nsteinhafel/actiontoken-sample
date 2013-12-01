@@ -5,3 +5,4 @@ lib/
 *.sqlite
 *.pyc
 sample/local_settings.py
+actiontoken/
