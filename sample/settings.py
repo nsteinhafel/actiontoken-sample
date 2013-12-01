@@ -9,7 +9,7 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
-PROJECT_DIR = os.path.abspath(os.path.dirname(__file__)
+PROJECT_DIR = os.path.abspath(os.path.dirname(__file__))
 
 DATABASES = {
     'default': {
